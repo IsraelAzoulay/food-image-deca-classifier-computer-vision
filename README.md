@@ -18,11 +18,13 @@ This repository contains a project focused on classifying images of 10 different
 - **Data:** Preprocessed datasets available through publicly accessible Google Drive links in the 'Food Image Deca (10 Classes) Classifier - Computer Vision' notebook.
 
 ## Getting Started
-1. **Open the provided Google Colab notebooks:**
+1. **Clone the repository:**
+   !git clone https://github.com/IsraelAzoulay/food-image-deca-classifier-computer-vision.git
+2. **Open the provided Google Colab notebooks:**
 Navigate to the 'notebooks' folder and open the desired notebook in Google Colab.
-2. **Run the Notebooks:**
+3. **Run the Notebooks:**
 Follow the instructions in the notebooks to download the datasets, preprocess the data, train and evaluate the models.
-3. **Customize:**
+4. **Customize:**
 Feel free to modify the models and code for your experiments.
 
 ## Contributing
