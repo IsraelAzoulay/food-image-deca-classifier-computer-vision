@@ -4,7 +4,7 @@ This repository contains a project focused on classifying images of 10 different
 ## Key Features
 - **Data Source:** Preprocessed food image datasets derived from the 'Organizing_The_Food101_Dataset' notebook.
 - **Deep Learning Framework:** TensorFlow
-- **Model Type:** Deep Learning, Computer Vision, and Transfer Learning with Fine-Tuning and Data Augmentation
+- **Model Type:** Deep Learning, Computer Vision, Transfer Learning Feature Extraction, and Transfer Learning Fine-Tuning with Data Augmentation
 - **Goal:** Classifying images into 10 different food classes
 - **Accuracy:** Achieves 90% accuracy on the full test set
 - **Environment:** Google Colab for development and execution
