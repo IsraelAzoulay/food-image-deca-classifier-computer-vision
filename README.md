@@ -6,7 +6,7 @@ This repository contains a project focused on classifying images of 10 different
 - **Deep Learning Framework:** TensorFlow
 - **Model Type:** Deep Learning, Computer Vision, Transfer Learning Feature Extraction, and Transfer Learning Fine-Tuning with Data Augmentation
 - **Goal:** Classifying images into 10 different food classes
-- **Accuracy:** Achieves 90% accuracy on the full test set
+- **Accuracy:** Achieves **90%** accuracy on the full test set
 - **Environment:** Google Colab for development and execution
 
 ## Repository Contents
