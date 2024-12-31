@@ -26,7 +26,7 @@ This repository contains a project focused on classifying images of 10 different
 ## Getting Started
 1. **Clone the repository:**
 ```bash
-!git clone https://github.com/IsraelAzoulay/food-image-deca-classifier-computer-vision.git
+git clone! https://github.com/IsraelAzoulay/food-image-deca-classifier-computer-vision.git
 ```
 
 2. **Open the provided Google Colab notebooks:**
